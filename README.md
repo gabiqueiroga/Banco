@@ -8,8 +8,7 @@ Ao acessar a conta, o usuário pode visualizar o nome do cliente, o número da c
 O trabalho foi apresentado em sala de aula.
 
 
-**Autores:** Gabriela Queiroga
-             Moab Esdras
+**Autores:** Gabriela Queiroga e Moab Esdras
 
 **Disciplina:** Introdução a programação 2019.2 UFCA
 
